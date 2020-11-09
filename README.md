@@ -4,7 +4,7 @@
 
 ---
 
-#### 🔗  [Mi portfolio](http://hrchioest.github.io/portfolio)
+#### 🔗  [My portfolio](http://hrchioest.github.io/portfolio)
 
 🖥 The technologies and 🛠 tools I use are:
 
