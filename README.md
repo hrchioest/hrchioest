@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi I´m Rocío 👋
 
-<!--
-**hrchioest/hrchioest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   ![alt text](https://raw.githubusercontent.com/hrchioest/portfolio/master/public/img/projects/banner.png)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖥 The technologies and 🛠 tools I use are:
+
+
+| Tecnologies  |   Tools       |  
+| ------------ |:-------------:| 
+| HTML         | Visual Studio | 
+| CSS          | SASS          |  
+| JS           | Bootstrap     | 
+| GIT          | Material UI   | 
+| React JS.    | GitHub        |   
+| Axios        | Figma         |   
+| Jest         | Adobe XD      |
+| jQuery       | Photoshop     |   
+
