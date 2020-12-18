@@ -1,6 +1,6 @@
 ### Hi I´m Rocío 👋
 
-   ![alt text](https://raw.githubusercontent.com/hrchioest/portfolio/master/public/img/projects/banner.png)
+   ![alt text](https://raw.githubusercontent.com/hrchioest/portfolio/master/public/img/projects/portada_gh.png)
 
 ---
 
