@@ -12,11 +12,12 @@
 | Tecnologies  |   Tools       |  
 | ------------ |:-------------:| 
 | HTML         | Visual Studio | 
-| CSS          | SASS          |  
-| JS           | Bootstrap     | 
-| GIT          | Material UI   | 
-| React JS.    | GitHub        |   
-| Axios        | Figma         |   
-| Jest         | Adobe XD      |
-| jQuery       | Photoshop     |   
+| SASS         | Docker        |
+| CSS          | Bootstrap     |  
+| JavaScript   | Material UI   | 
+| React        | GIT /GitHub   | 
+| Node.Js      | Figma         |   
+| Axios        | Adobe XD      |   
+| Jest         | MarvelApp     |
+| Node.Js      | Photoshop     |   
 
